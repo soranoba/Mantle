@@ -9,6 +9,7 @@
 #import <Mantle/Mantle.h>
 #import <Nimble/Nimble.h>
 #import <Quick/Quick.h>
+#import "a.h"
 
 QuickSpecBegin(MTLArrayManipulationAdditions)
 
